@@ -1,4 +1,3 @@
-cat('# Tax Collection Dashboard
 
 An interactive R Shiny dashboard for analyzing tax collection data from 2022-2024.
 
