@@ -19,5 +19,3 @@ An interactive R Shiny dashboard for analyzing tax collection data from 2022-202
 
 - R 4.0.0 or higher
 - Required packages: shiny, shinydashboard, dplyr, ggplot2, plotly, DT, RSQLite, lubridate, scales, DBI, shinyWidgets
-
-', file = "README.md")
